@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="15" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="223129" started-at="2018-08-31T15:41:54Z" finished-at="2018-08-31T15:45:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="223129" started-at="2018-08-31T15:41:54Z" finished-at="2018-08-31T15:45:38Z">
+      <class name="com.clopay.automationtesting.testcases.ValidatingAssociatePortalHomePageFunctionalities">
+        <test-method status="PASS" signature="AssociatePortalUS_Stores()[pri:2, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalHomePageFunctionalities@3e9b1010]" name="AssociatePortalUS_Stores" duration-ms="73712" started-at="2018-08-31T21:11:58Z" finished-at="2018-08-31T21:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssociatePortalUS_Stores -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalHomePageFunctionalities@3e9b1010]" name="getResult" is-config="true" duration-ms="0" started-at="2018-08-31T21:13:12Z" finished-at="2018-08-31T21:13:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AssociatePortalUS_Stores status=SUCCESS method=ValidatingAssociatePortalHomePageFunctionalities.AssociatePortalUS_Stores()[pri:2, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalHomePageFunctionalities@3e9b1010] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="AssociatePortalCanada_Stores()[pri:3, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalHomePageFunctionalities@3e9b1010]" name="AssociatePortalCanada_Stores" duration-ms="35218" started-at="2018-08-31T21:13:12Z" finished-at="2018-08-31T21:13:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssociatePortalCanada_Stores -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalHomePageFunctionalities@3e9b1010]" name="getResult" is-config="true" duration-ms="0" started-at="2018-08-31T21:13:47Z" finished-at="2018-08-31T21:13:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AssociatePortalCanada_Stores status=SUCCESS method=ValidatingAssociatePortalHomePageFunctionalities.AssociatePortalCanada_Stores()[pri:3, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalHomePageFunctionalities@3e9b1010] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- com.clopay.automationtesting.testcases.ValidatingAssociatePortalHomePageFunctionalities -->
+      <class name="com.clopay.automationtesting.testcases.ValidatingAssociatePortalLogOutFunctionality">
+        <test-method status="PASS" signature="ValidatingUserLoguOUtFunctionalityTest()[pri:7, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalLogOutFunctionality@6f1fba17]" name="ValidatingUserLoguOUtFunctionalityTest" duration-ms="2417" started-at="2018-08-31T21:14:38Z" finished-at="2018-08-31T21:14:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatingUserLoguOUtFunctionalityTest -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalLogOutFunctionality@6f1fba17]" name="getResult" is-config="true" duration-ms="2" started-at="2018-08-31T21:14:40Z" finished-at="2018-08-31T21:14:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidatingUserLoguOUtFunctionalityTest status=SUCCESS method=ValidatingAssociatePortalLogOutFunctionality.ValidatingUserLoguOUtFunctionalityTest()[pri:7, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalLogOutFunctionality@6f1fba17] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="SitefinityLogin()[pri:8, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalLogOutFunctionality@6f1fba17]" name="SitefinityLogin" duration-ms="55405" started-at="2018-08-31T21:14:40Z" finished-at="2018-08-31T21:15:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SitefinityLogin -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalLogOutFunctionality@6f1fba17]" name="getResult" is-config="true" duration-ms="1" started-at="2018-08-31T21:15:36Z" finished-at="2018-08-31T21:15:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SitefinityLogin status=SUCCESS method=ValidatingAssociatePortalLogOutFunctionality.SitefinityLogin()[pri:8, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalLogOutFunctionality@6f1fba17] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="SitefinityLogOutFunctionalityTest()[pri:9, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalLogOutFunctionality@6f1fba17]" name="SitefinityLogOutFunctionalityTest" duration-ms="1792" started-at="2018-08-31T21:15:36Z" finished-at="2018-08-31T21:15:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SitefinityLogOutFunctionalityTest -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalLogOutFunctionality@6f1fba17]" name="getResult" is-config="true" duration-ms="1" started-at="2018-08-31T21:15:38Z" finished-at="2018-08-31T21:15:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SitefinityLogOutFunctionalityTest status=SUCCESS method=ValidatingAssociatePortalLogOutFunctionality.SitefinityLogOutFunctionalityTest()[pri:9, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalLogOutFunctionality@6f1fba17] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- com.clopay.automationtesting.testcases.ValidatingAssociatePortalLogOutFunctionality -->
+      <class name="com.clopay.automationtesting.testcases.ValidatingAssociatePortalManageUsersPageFunctionality">
+        <test-method status="PASS" signature="AssociatePortalManageUsers()[pri:4, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalManageUsersPageFunctionality@6c3708b3]" name="AssociatePortalManageUsers" duration-ms="10726" started-at="2018-08-31T21:13:47Z" finished-at="2018-08-31T21:13:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssociatePortalManageUsers -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalManageUsersPageFunctionality@6c3708b3]" name="getResult" is-config="true" duration-ms="1" started-at="2018-08-31T21:13:58Z" finished-at="2018-08-31T21:13:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AssociatePortalManageUsers status=SUCCESS method=ValidatingAssociatePortalManageUsersPageFunctionality.AssociatePortalManageUsers()[pri:4, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalManageUsersPageFunctionality@6c3708b3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="AssociatePortalManageSupervisors()[pri:5, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalManageUsersPageFunctionality@6c3708b3]" name="AssociatePortalManageSupervisors" duration-ms="10554" started-at="2018-08-31T21:13:58Z" finished-at="2018-08-31T21:14:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssociatePortalManageSupervisors -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalManageUsersPageFunctionality@6c3708b3]" name="getResult" is-config="true" duration-ms="1" started-at="2018-08-31T21:14:09Z" finished-at="2018-08-31T21:14:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AssociatePortalManageSupervisors status=SUCCESS method=ValidatingAssociatePortalManageUsersPageFunctionality.AssociatePortalManageSupervisors()[pri:5, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalManageUsersPageFunctionality@6c3708b3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="AssociatePortalContactUs()[pri:6, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalManageUsersPageFunctionality@6c3708b3]" name="AssociatePortalContactUs" duration-ms="29369" started-at="2018-08-31T21:14:09Z" finished-at="2018-08-31T21:14:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssociatePortalContactUs -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalManageUsersPageFunctionality@6c3708b3]" name="getResult" is-config="true" duration-ms="1" started-at="2018-08-31T21:14:38Z" finished-at="2018-08-31T21:14:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AssociatePortalContactUs status=SUCCESS method=ValidatingAssociatePortalManageUsersPageFunctionality.AssociatePortalContactUs()[pri:6, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalManageUsersPageFunctionality@6c3708b3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- com.clopay.automationtesting.testcases.ValidatingAssociatePortalManageUsersPageFunctionality -->
+      <class name="com.clopay.automationtesting.testcases.ValidatingAssociatePortalLoginPageFunctionalitiy">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalLoginPageFunctionalitiy@18eed359]" name="init" is-config="true" duration-ms="5972" started-at="2018-08-31T21:11:49Z" finished-at="2018-08-31T21:11:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="UserLogin()[pri:1, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalLoginPageFunctionalitiy@18eed359]" name="UserLogin" duration-ms="3867" started-at="2018-08-31T21:11:55Z" finished-at="2018-08-31T21:11:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserLogin -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalLoginPageFunctionalitiy@18eed359]" name="getResult" is-config="true" duration-ms="11" started-at="2018-08-31T21:11:58Z" finished-at="2018-08-31T21:11:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=UserLogin status=SUCCESS method=ValidatingAssociatePortalLoginPageFunctionalitiy.UserLogin()[pri:1, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalLoginPageFunctionalitiy@18eed359] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.clopay.automationtesting.testcases.ValidatingAssociatePortalLoginPageFunctionalitiy@18eed359]" name="teardown" is-config="true" duration-ms="1288" started-at="2018-08-31T21:15:38Z" finished-at="2018-08-31T21:15:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.clopay.automationtesting.testcases.ValidatingAssociatePortalLoginPageFunctionalitiy -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

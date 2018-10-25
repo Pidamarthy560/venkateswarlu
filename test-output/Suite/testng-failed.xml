@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.clopay.automationtesting.testcases.ValidatingAssociatePortalLogOutFunctionality">
+        <methods>
+          <include name="teardown"/>
+          <include name="ValidatingUserLoguOUtFunctionalityTest"/>
+          <include name="getResult"/>
+          <include name="SitefinityLogOutFunctionalityTest"/>
+          <include name="init"/>
+          <include name="SitefinityLogin"/>
+        </methods>
+      </class> <!-- com.clopay.automationtesting.testcases.ValidatingAssociatePortalLogOutFunctionality -->
+      <class name="com.clopay.automationtesting.testcases.ValidatingAssociatePortalManageUsersPageFunctionality">
+        <methods>
+          <include name="teardown"/>
+          <include name="AssociatePortalManageSupervisors"/>
+          <include name="AssociatePortalManageUsers"/>
+          <include name="getResult"/>
+          <include name="AssociatePortalContactUs"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.clopay.automationtesting.testcases.ValidatingAssociatePortalManageUsersPageFunctionality -->
+      <class name="com.clopay.automationtesting.testcases.ValidatingAssociatePortalHomePageFunctionalities">
+        <methods>
+          <include name="teardown"/>
+          <include name="AssociatePortalCanada_Stores"/>
+          <include name="getResult"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.clopay.automationtesting.testcases.ValidatingAssociatePortalHomePageFunctionalities -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
