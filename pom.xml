@@ -12,8 +12,7 @@
 </properties>
 <build>
 
-<testSourceDirectory>src</testSourceDirectory>
-<sourceDirectory>src</sourceDirectory>
+
 
 <resources>
 <resource>
@@ -33,7 +32,7 @@
         <configuration>
           <forkCount>0</forkCount>
           <suiteXmlFiles>
-          <suiteXmlFile>src/main/resources/testng.xml</suiteXmlFile> 
+          <suiteXmlFile>testng.xml</suiteXmlFile> 
           </suiteXmlFiles>
         </configuration>
       </plugin>
